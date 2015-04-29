@@ -1,0 +1,36 @@
+/gps/particle neutron 
+/gps/pos/type Plane
+/gps/pos/shape Circle
+/gps/pos/radius 190.5 mm
+/gps/pos/centre 0. 0. -191. mm
+/gps/direction 0 0 1
+/gps/ene/type Mono
+
+/LXe/detector/BonnerSphereNumber -1
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 0
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 1
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 2
+/control/execute energy2.mac      
+/LXe/detector/BonnerSphereNumber 3
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 4
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 5
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 6
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 7
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 8
+/control/execute energy2.mac      
+/LXe/detector/BonnerSphereNumber 9
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 10
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 11
+/control/execute energy2.mac
+/LXe/detector/BonnerSphereNumber 12
+/control/execute energy2.mac

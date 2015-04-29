@@ -1,0 +1,91 @@
+/gps/particle neutron 
+/gps/pos/type Plane
+/gps/pos/shape Circle
+/gps/pos/radius 229 mm
+/gps/pos/centre 0. 0. -230. mm
+/gps/direction 0 0 1
+
+/gps/ene/type User
+/gps/ene/emspec 1
+/gps/hist/type energy
+/gps/hist/point 0.000000414	0.00000000031	
+/gps/hist/point 0.000001	0.0000000111
+/gps/hist/point 0.00001		0.000000127
+/gps/hist/point 0.00005		0.000000276
+/gps/hist/point 0.0001		0.000000782
+/gps/hist/point 0.0002		0.00000221
+/gps/hist/point 0.0004		0.00000453
+/gps/hist/point 0.0007		0.00000568
+/gps/hist/point 0.001		0.0000551
+/gps/hist/point 0.003		0.000128
+/gps/hist/point 0.006		0.00023
+/gps/hist/point 0.01		0.000774
+/gps/hist/point 0.02		0.00217
+/gps/hist/point 0.04		0.0028
+/gps/hist/point 0.06		0.00329
+/gps/hist/point 0.08		0.00368
+/gps/hist/point 0.1		0.0105
+/gps/hist/point 0.15		0.0121
+/gps/hist/point 0.2		0.0133
+/gps/hist/point 0.25		0.0142
+/gps/hist/point 0.3		0.0149
+/gps/hist/point 0.35		0.0155
+/gps/hist/point 0.4		0.016
+/gps/hist/point 0.45		0.0163
+/gps/hist/point 0.5		0.0166
+/gps/hist/point 0.55		0.0168
+/gps/hist/point 0.6		0.0338
+/gps/hist/point 0.7		0.0339
+/gps/hist/point 0.8		0.0337
+/gps/hist/point 0.9		0.0333
+/gps/hist/point 1		0.0646
+/gps/hist/point 1.2		0.0612
+/gps/hist/point 1.4		0.0573
+/gps/hist/point 1.6		0.0531
+/gps/hist/point 1.8		0.0488
+/gps/hist/point 2		0.0655
+/gps/hist/point 2.3		0.0567
+/gps/hist/point 2.6		0.0633
+/gps/hist/point 3		0.0621
+/gps/hist/point 3.5		0.0468
+/gps/hist/point 4		0.0349
+/gps/hist/point 4.5		0.0258
+/gps/hist/point 5		0.033
+/gps/hist/point 6		0.0174
+/gps/hist/point 7		0.00901
+/gps/hist/point 8		0.00461
+/gps/hist/point 9		0.00233
+/gps/hist/point 10		0.00117
+/gps/hist/point 11		0.000583
+/gps/hist/point 12		0.000288
+/gps/hist/point 13		0.000142
+/gps/hist/point 14		0.0000694
+
+/LXe/detector/BonnerSphereNumber -1
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 0
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 1
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 2
+/run/beamOn 10000000      
+/LXe/detector/BonnerSphereNumber 3
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 4
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 5
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 6
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 7
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 8
+/run/beamOn 10000000      
+/LXe/detector/BonnerSphereNumber 9
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 10
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 11
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 12
+/run/beamOn 10000000

@@ -1,0 +1,87 @@
+/gps/particle neutron 
+/gps/pos/type Volume
+/gps/pos/shape Cylinder
+/gps/pos/centre 0. 0. -220. mm
+/gps/pos/rot1 0 0 1
+/gps/pos/rot2 0 1 0
+/gps/pos/radius 12.1 mm
+/gps/pos/halfz 9 mm
+/gps/ang/type  iso
+/gps/ang/mintheta 125 deg
+/gps/ang/maxtheta 180 deg
+/gps/ene/type User
+/gps/ene/emspec 1
+/gps/hist/type energy
+/gps/hist/point 0.000000414	0	
+/gps/hist/point 0.11		0.1309095836
+/gps/hist/point 0.33		0.1518181818
+/gps/hist/point 0.54		0.149047619
+/gps/hist/point 0.75		0.1338095238
+/gps/hist/point 0.97		0.1136363636
+/gps/hist/point 1.18		0.1019047619
+/gps/hist/point 1.4		0.09
+/gps/hist/point 1.61		0.0833333333
+/gps/hist/point 1.82		0.0914285714
+/gps/hist/point 2.04		0.1422727273
+/gps/hist/point 2.25		0.1023809524
+/gps/hist/point 2.47		0.1022727273
+/gps/hist/point 2.68		0.1085714286
+/gps/hist/point 2.9		0.1340909091
+/gps/hist/point 3.11		0.1695238095
+/gps/hist/point 3.32		0.1757142857
+/gps/hist/point 3.54		0.1572727273
+/gps/hist/point 3.75		0.1461904762
+/gps/hist/point 3.97		0.1363636364
+/gps/hist/point 4.18		0.1280952381
+/gps/hist/point 4.39		0.1361904762
+/gps/hist/point 4.61		0.1445454545
+/gps/hist/point 4.82		0.1461904762
+/gps/hist/point 5.04		0.1513636364
+/gps/hist/point 5.25		0.1447619048
+/gps/hist/point 5.47		0.1245454545
+/gps/hist/point 5.68		0.110952381
+/gps/hist/point 5.89		0.0980952381
+/gps/hist/point 6.11		0.0827272727
+/gps/hist/point 6.32		0.0842857143
+/gps/hist/point 6.54		0.0927272727
+/gps/hist/point 6.75		0.0871428571
+/gps/hist/point 6.96		0.0776190476
+/gps/hist/point 7.18		0.0763636364
+/gps/hist/point 7.39		0.08
+/gps/hist/point 7.61		0.0854545455
+/gps/hist/point 7.82		0.0876190476
+/gps/hist/point 8.03		0.0804761905
+/gps/hist/point 8.25		0.0654545455
+/gps/hist/point 8.46		0.0460952381
+/gps/hist/point 8.68		0.0296363636
+/gps/hist/point 8.89		0.0202857143
+/gps/hist/point 9.11		0.0166818182
+/gps/hist/point 9.32		0.0181428571
+/gps/hist/point 9.53		0.0240952381
+/gps/hist/point 9.75		0.0284090909
+/gps/hist/point 9.96		0.0262857143
+/gps/hist/point 10.2		0.0195
+/gps/hist/point 10.4		0.0185
+/gps/hist/point 10.6		0.0139
+/gps/hist/point 10.8		0.00755
+/gps/hist/point 11		0.001815
+
+/LXe/detector/BonnerSphereNumber 0
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 1
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 2 
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 3
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 4
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 5
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 6
+/run/beamOn 10000000
+/LXe/detector/BonnerSphereNumber 7
+/run/beamOn 10000000
+
+
+
